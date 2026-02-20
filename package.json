@@ -1,0 +1,16 @@
+{
+  "name": "av1-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "AV1 - API Node + Express (parte 1)",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "aluno",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
